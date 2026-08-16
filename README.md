@@ -1,1 +1,1 @@
-# hatuaapp.github.io
+# Bingwaapp.github.io
